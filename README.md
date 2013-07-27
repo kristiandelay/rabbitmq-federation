@@ -1,4 +1,4 @@
-Simple Federated RabbitMQ experiment
+QQQSimple Federated RabbitMQ experiment
 ====================================
 
 This is the setup for a three node federated RabbitMQ installation.
