@@ -21,6 +21,7 @@ Warning: The shell scripts only support debian based distros.
 
 TODO: update shell script files to handle other linux distros. currently the scripts use a debian based distro. 
 
+http://www.stumiller.me/fixing-vagrant-osx-mavericks-update/
 
 Installation
 ------------
